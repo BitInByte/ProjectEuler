@@ -1,3 +1,8 @@
+#
+# Problem 1 resolution
+# Copyright (c) BitInByte. All rights reserved.
+#
+
 import sys
 
 # Check if the user inserted any agument
