@@ -1,0 +1,4 @@
+Project Euler numerical answers
+Computed by BitInByte
+
+Problem 001: 233168

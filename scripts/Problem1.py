@@ -17,7 +17,7 @@ if len(sys.argv) > 1:
 		# Iterate 1 more
 		i += 1
 	# Ouput the result
-	print(total)
+	print("Your result is: " + str(total))
 else:
 	# Output an error if the user didn't inserted any argument
 	print("No max value was introduced as argument!")
